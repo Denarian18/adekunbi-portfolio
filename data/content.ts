@@ -90,3 +90,29 @@ export const certifications = [
   "Full Stack Web Development (Udemy)",
   "Customer Care Skills and Telephone Etiquette (Alison)",
 ];
+
+export const designs = [
+  { title: "Brand Poster", category: "Flyer", src: "/designs/unique-flyer.jpg" },
+  { title: "Promo Poster", category: "Poster", src: "/designs/sejudam-autoparts.jpg" },
+  { title: "Brand Poster", category: "flyer", src: "/designs/youth-conference.jpg" },
+];
+
+export const projects = [
+  {
+    title: "Project One",
+    description:
+      "A short description of what it does and the problem it solves.",
+    tech: ["Next.js", "Tailwind CSS", "TypeScript"],
+    live: "#", // live demo URL
+    repo: "#", // GitHub repo URL
+    image: "", // e.g. "/projects/project-one.png" (optional)
+  },
+  {
+    title: "Project Two",
+    description: "Another short description.",
+    tech: ["React", "JavaScript"],
+    live: "#",
+    repo: "#",
+    image: "",
+  },
+];
