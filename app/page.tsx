@@ -4,6 +4,8 @@ import { About } from "@/components/about";
 import { Experience } from "@/components/experience";
 import { Skills } from "@/components/skills";
 import { Education } from "@/components/education";
+import { Projects } from "@/components/projects";
+import { Designs } from "@/components/designs";
 
 export default function Home() {
   return (
@@ -14,8 +16,9 @@ export default function Home() {
         <About />
         <Experience />
         <Skills />
+        <Projects />
+        <Designs />
         <Education />
-        <section id="projects" className="h-96" />
         <section id="contact" className="h-96" />
       </main>
     </>

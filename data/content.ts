@@ -92,9 +92,17 @@ export const certifications = [
 ];
 
 export const designs = [
-  { title: "Brand Poster", category: "Flyer", src: "/designs/unique-flyer.jpg" },
-  { title: "Promo Poster", category: "Poster", src: "/designs/sejudam-autoparts.jpg" },
-  { title: "Brand Poster", category: "flyer", src: "/designs/youth-conference.jpg" },
+  { title: "Brand Poster", category: "Flyer", src: "/designs/unique-flyer.jpg"},
+  { title: "Brand Poster", category: "Poster", src: "/designs/sejudam-autoparts.jpg"},
+  { title: "Church Event", category: "flyer", src: "/designs/youth-conference.jpg"},
+  
+  { title: "Graphic Poster", category: "flyer", src: "/designs/large-shadow.jpg"},
+  { title: "Church Event", category: "flyer", src: "/designs/youth-fellowship.jpg"},
+  { title: "Church Event", category: "flyer", src: "/designs/church-flier.jpg"},
+
+  { title: "Brand Banner", category: "flyer", src: "/designs/olams-tech.jpg"},
+  { title: "Brand Logo", category: "flyer", src: "/designs/Denarian coffee.jpg"},
+  { title: "Event Ads", category: "flyer", src: "/designs/linkedin-event.jpg"},
 ];
 
 export const projects = [
