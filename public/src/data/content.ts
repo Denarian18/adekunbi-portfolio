@@ -21,4 +21,4 @@ export const experience = [
     ],
   },
   // add DenarianX IT Solutions etc.
-];
+]; 
