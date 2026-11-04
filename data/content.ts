@@ -107,20 +107,20 @@ export const designs = [
 
 export const projects = [
   {
-    title: "Project One",
+    title: "Sejudam Logistics & Autoparts",
     description:
       "A short description of what it does and the problem it solves.",
-    tech: ["Next.js", "Tailwind CSS", "TypeScript"],
-    live: "#", // live demo URL
-    repo: "#", // GitHub repo URL
-    image: "", // e.g. "/projects/project-one.png" (optional)
+    tech: ["Vue.js", "Tailwind CSS", "JavaScript"],
+    live: "https://sejudam-website.vercel.app/", // live demo URL
+    repo: "https://github.com/Denarian18/sejudam-website", // GitHub repo URL
+    image: "/projects/sejudam-logistics.png", // e.g. "/projects/project-one.png" (optional)
   },
   {
-    title: "Project Two",
+    title: "Cherry Movie Website",
     description: "Another short description.",
-    tech: ["React", "JavaScript"],
-    live: "#",
-    repo: "#",
-    image: "",
+    tech: ["React", "JavaScript", "Bootstrap 5"],
+    live: " https://denarian18.github.io/Cherry/",
+    repo: "https://github.com/Denarian18/Cherry",
+    image: "/projects/movie-website.png",
   },
 ];
