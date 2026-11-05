@@ -18,6 +18,7 @@ export function Projects() {
                   src={p.image}
                   alt={p.title}
                   fill
+                   sizes="(min-width: 768px) 50vw, 100vw"
                   className="object-cover"
                 />
               )}

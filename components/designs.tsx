@@ -34,6 +34,7 @@ export function Designs() {
               width={800}
               height={1000}
               className="h-auto w-full transition duration-500 group-hover:scale-105"
+              sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
             />
             <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-4 text-left text-sm text-white opacity-0 transition group-hover:opacity-100">
               {d.title} · {d.category}
