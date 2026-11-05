@@ -117,10 +117,28 @@ export const projects = [
   },
   {
     title: "Cherry Movie Website",
-    description: "A movie website, that displays a list of movies and their details, built with HTML, CSS and JavaScript.",
+    description: "A movie website, that displays, trending movies, series, endless lists of movies and their details, built with React, Bootstrap 5, and JavaScript.",
     tech: ["React", "JavaScript", "Bootstrap 5"],
-    live: " https://denarian18.github.io/Cherry/",
+    live: "https://denarian18.github.io/Cherry/",
     repo: "https://github.com/Denarian18/Cherry",
     image: "/projects/movie-website.png",
+  },
+   {
+    title: "Github Profile",
+    description:
+      "Search any GitHub username to view their profile and browse all of their public repositories in one place.",
+    tech: ["Vue.js", "Tailwind CSS", "JavaScript"],
+    live: "https://denarian18.github.io/Github-Profile/", // live demo URL
+    repo: "https://github.com/Denarian18/Github-Profile", // GitHub repo URL
+    image: "/projects/github-profile.png", // e.g. "/projects/project-one.png" (optional)
+  },
+   {
+    title: "Denarian's Cafe",
+    description:
+       "A café website showcasing a menu and services. Built with hand-written HTML, CSS and JavaScript and no frameworks, as a practice project in core web fundamentals.",
+    tech: ["HTML5", "CSS3", "JavaScript"],
+    live: "https://denarian18.github.io/Cafe/index.html", // live demo URL
+    repo: "https://github.com/Denarian18/Cafe", // GitHub repo URL
+    image: "/projects/denarians-cafe.png", // e.g. "/projects/project-one.png" (optional)
   },
 ];
