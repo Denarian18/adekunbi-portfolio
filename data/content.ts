@@ -6,7 +6,7 @@ export const profile = {
     "4+ years resolving technical and account issues across SaaS platforms, now growing into software development through a Computer Science degree.",
   email: "emmanuelson202@gmail.com",
   github: "https://github.com/Denarian18",
-  linkedin: "#", // paste your real LinkedIn URL
+  linkedin: "https://www.linkedin.com/in/oluwole-adekunbi-931078158/", // paste your real LinkedIn URL
 };
 
 export const experience = [

@@ -6,6 +6,8 @@ import { Skills } from "@/components/skills";
 import { Education } from "@/components/education";
 import { Projects } from "@/components/projects";
 import { Designs } from "@/components/designs";
+import { Contact } from "@/components/contact";
+import { Footer } from "@/components/footer";
 
 export default function Home() {
   return (
@@ -19,8 +21,10 @@ export default function Home() {
         <Projects />
         <Designs />
         <Education />
+        <Contact />
         <section id="contact" className="h-96" />
       </main>
+      <Footer />
     </>
   );
 }
