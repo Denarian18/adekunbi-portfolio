@@ -33,8 +33,8 @@ export function Designs() {
               alt={d.title}
               width={800}
               height={1000}
-              className="h-auto w-full transition duration-500 group-hover:scale-105"
               sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+              className="h-auto w-full transition duration-500 group-hover:scale-105"              
             />
             <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-4 text-left text-sm text-white opacity-0 transition group-hover:opacity-100">
               {d.title} · {d.category}
@@ -63,6 +63,7 @@ export function Designs() {
               alt={designs[active].title}
               width={1200}
               height={1500}
+              sizes="100vw"
               className="max-h-[90vh] w-auto rounded-xl object-contain"
             />
           </motion.div>
