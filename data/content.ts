@@ -109,7 +109,7 @@ export const projects = [
   {
     title: "Sejudam Logistics & Autoparts",
     description:
-      "A short description of what it does and the problem it solves.",
+      "A logistics and autoparts website for Sejudam, that displays their services and products.",
     tech: ["Vue.js", "Tailwind CSS", "JavaScript"],
     live: "https://sejudam-website.vercel.app/", // live demo URL
     repo: "https://github.com/Denarian18/sejudam-website", // GitHub repo URL
@@ -117,7 +117,7 @@ export const projects = [
   },
   {
     title: "Cherry Movie Website",
-    description: "Another short description.",
+    description: "A movie website, that displays a list of movies and their details, built with HTML, CSS and JavaScript.",
     tech: ["React", "JavaScript", "Bootstrap 5"],
     live: " https://denarian18.github.io/Cherry/",
     repo: "https://github.com/Denarian18/Cherry",
