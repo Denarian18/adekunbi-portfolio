@@ -101,7 +101,7 @@ export const designs = [
   { title: "Church Event", category: "flyer", src: "/designs/church-flier.jpg"},
 
   { title: "Brand", category: "flyer", src: "/designs/olams-tech.jpg"},
-  { title: "Brand Logo", category: "flyer", src: "/designs/Denarian coffee.jpg"},
+  { title: "Brand Logo", category: "flyer", src: "/designs/denarian-coffee.jpg"},
   { title: "Event Ads", category: "flyer", src: "/designs/linkedin-event.jpg"},
 ];
 
